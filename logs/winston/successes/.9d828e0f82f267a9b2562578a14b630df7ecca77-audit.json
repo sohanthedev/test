@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/media/sohan/New Volume/university/logs/winston/successes/.9d828e0f82f267a9b2562578a14b630df7ecca77-audit.json",
+    "files": [
+        {
+            "date": 1686310664123,
+            "name": "/media/sohan/New Volume/university/logs/winston/successes/phu-2023-09-06-17-success.log",
+            "hash": "ee73c0d2aeb6a3eaad6631c29437242391bf9a408e2f06e33173fa9cb71467f7"
+        }
+    ],
+    "hashType": "sha256"
+}
